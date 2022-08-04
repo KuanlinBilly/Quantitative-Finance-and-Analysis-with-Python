@@ -5,4 +5,5 @@
 * Moving Average Crossover Trading Strategy with Python
 * Stock Closing Price Prediction using Decision Tree
 * Technical Stock Analysis(RSI) with Python
+* Predicting the Stock Price with Machine Learning - Linear Regression
 
