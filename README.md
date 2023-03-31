@@ -23,9 +23,9 @@ In this project, we perform an exploratory data analysis on historical data of v
 
 ### Interactive Backtesting of Trading Strategies with IPyWidgets
 
-This project demonstrates the use of IPyWidgets to create an interactive backtesting environment for trading strategies. Users can input different parameters, such as the time period and technical indicators, to test and optimize their trading strategies.
+This project demonstrates the use of IPyWidgets to create an interactive backtesting environment for trading strategies. Users can input different parameters, such as the time period, to test and optimize their trading strategies.
 
-[Link to Project Folder](./02_interactive_backtesting)
+[Link to Project](https://github.com/KuanlinBilly/Python-for-Finance-/blob/main/Interactive%20Backtesting%20Trading%20Strategies%20with%20IPyWidgets.ipynb)
 
 ---
 
@@ -33,7 +33,7 @@ This project demonstrates the use of IPyWidgets to create an interactive backtes
 
 This project focuses on implementing a moving average crossover trading strategy using Python. The moving average crossover strategy is a popular technical trading rule that generates buy and sell signals based on the crossing of two moving averages.
 
-[Link to Project Folder](./03_moving_average_crossover)
+[Link to Project](https://github.com/KuanlinBilly/Python-for-Finance-/blob/main/Moving%20average%20crossover%20trading%20strategy%20with%20python.ipynb)
 
 ---
 
@@ -41,7 +41,7 @@ This project focuses on implementing a moving average crossover trading strategy
 
 In this project, we use decision trees to predict the closing price of a stock based on historical data. Decision trees are a popular machine learning technique for making predictions and can provide an intuitive and easy-to-understand representation of the prediction process.
 
-[Link to Project Folder](./04_stock_closing_price_prediction)
+[Link to Project](https://github.com/KuanlinBilly/Python-for-Finance-/blob/main/Stock%20Closing%20Price%20Prediction%20using%20Decision%20Tree.ipynb)
 
 ---
 
@@ -49,7 +49,7 @@ In this project, we use decision trees to predict the closing price of a stock b
 
 This project demonstrates the calculation and interpretation of the Relative Strength Index (RSI) using Python. The RSI is a popular technical indicator used to measure the strength or weakness of a stock's price movement over a given period.
 
-[Link to Project Folder](./05_technical_stock_analysis_rsi)
+[Link to Project](https://github.com/KuanlinBilly/Python-for-Finance-/blob/main/Technical_Stock_Analysis_(RSI)_with_Python.ipynb)
 
 ---
 
@@ -57,10 +57,6 @@ This project demonstrates the calculation and interpretation of the Relative Str
 
 In this project, we use linear regression, a basic machine learning algorithm, to predict stock prices based on historical data. The project demonstrates how to preprocess data, train a linear regression model, and evaluate its performance.
 
-[Link to Project Folder](./06_stock_price_prediction_linear_regression)
+[Link to Project](https://github.com/KuanlinBilly/Python-for-Finance-/blob/main/Predicting%20the%20Stock%20Price%20with%20Machine%20Learning%20-%20Linear%20Regression.ipynb)
 
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+ 
