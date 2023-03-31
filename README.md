@@ -1,4 +1,4 @@
-# Python for Finance
+# Quantitative Finance and Analysis with Python
 
 This repository contains a collection of finance-related projects leveraging Python to perform data analysis, trading strategy development, and stock price prediction. These projects demonstrate the power and versatility of Python in the world of finance and aim to provide practical applications for anyone interested in expanding their knowledge of finance and data analysis.
 
