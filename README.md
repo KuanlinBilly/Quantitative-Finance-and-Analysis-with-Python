@@ -17,7 +17,7 @@ This repository contains a collection of finance-related projects leveraging Pyt
 
 In this project, we perform an exploratory data analysis on historical data of various cryptocurrencies. The goal is to gain insights into the performance and trends of different cryptocurrencies, as well as to identify potential patterns or anomalies.
 
-[Link to Project]('https://github.com/KuanlinBilly/Python-for-Finance-/blob/main/Exploratory_Data_Analysis_of_Cryptocurrency_Historical_Data.ipynb')
+[Link to Project](https://github.com/KuanlinBilly/Python-for-Finance-/blob/main/Exploratory_Data_Analysis_of_Cryptocurrency_Historical_Data.ipynb)
 
 ---
 
